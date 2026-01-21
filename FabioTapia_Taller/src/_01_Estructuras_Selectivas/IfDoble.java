@@ -1,3 +1,5 @@
+package _01_Estructuras_Selectivas;
+
 import java.util.Scanner;
 
 public class IfDoble {
